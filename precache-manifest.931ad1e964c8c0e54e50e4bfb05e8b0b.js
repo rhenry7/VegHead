@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9be92dbc743b7baabdd6b3b75666fbd9",
+    "revision": "980b9c3ffe41b8b59d8e479cd8ed6951",
     "url": "/VegHead/index.html"
   },
   {
