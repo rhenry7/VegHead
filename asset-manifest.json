@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/VegHead/static/css/main.0d6e46d1.chunk.css",
+    "main.js": "/VegHead/static/js/main.2bf6ca34.chunk.js",
+    "main.js.map": "/VegHead/static/js/main.2bf6ca34.chunk.js.map",
+    "runtime-main.js": "/VegHead/static/js/runtime-main.f28493ed.js",
+    "runtime-main.js.map": "/VegHead/static/js/runtime-main.f28493ed.js.map",
+    "static/js/2.aa19a0f9.chunk.js": "/VegHead/static/js/2.aa19a0f9.chunk.js",
+    "static/js/2.aa19a0f9.chunk.js.map": "/VegHead/static/js/2.aa19a0f9.chunk.js.map",
+    "index.html": "/VegHead/index.html",
+    "precache-manifest.586ba10ddb7ad6602f9d8fad0e5e6b8a.js": "/VegHead/precache-manifest.586ba10ddb7ad6602f9d8fad0e5e6b8a.js",
+    "service-worker.js": "/VegHead/service-worker.js",
+    "static/css/main.0d6e46d1.chunk.css.map": "/VegHead/static/css/main.0d6e46d1.chunk.css.map",
+    "static/js/2.aa19a0f9.chunk.js.LICENSE.txt": "/VegHead/static/js/2.aa19a0f9.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/VegHead/static/media/bg_search_desktop_green.7745e695.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f28493ed.js",
+    "static/js/2.aa19a0f9.chunk.js",
+    "static/css/main.0d6e46d1.chunk.css",
+    "static/js/main.2bf6ca34.chunk.js"
+  ]
+}
